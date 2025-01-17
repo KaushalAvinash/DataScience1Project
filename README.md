@@ -6,6 +6,7 @@
 3. Data Transformation
 4. Model Trainer
 5. Model Evaluation
+6. Model Evaluation - MLflow, Dagshub
 
 ### Workflows Steps
 
